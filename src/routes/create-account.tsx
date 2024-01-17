@@ -10,7 +10,7 @@ import {
   Switcher,
   Title,
   Wrapper,
-} from "./auth-components";
+} from "../components/auth-components";
 
 export default function CreateAccount() {
   const nav = useNavigate();
